@@ -1,0 +1,23 @@
+body {
+    background-image: url("img2.webp");
+    background-repeat:no-repeat ;
+    background-size:1000px;
+    background-position-x:center;
+  }
+header{
+  background-color:black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    align-items: center;
+}
+header img {
+  height: 60px;
+}
+div{
+  width:320px;
+  padding:10px;
+  margin: auto;
+}
